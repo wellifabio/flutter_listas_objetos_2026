@@ -3,6 +3,8 @@ Exemplo de aplicativo em flutter com listas, e objetos
 - ListView
 - Marcar itens na lista
 - Evento onLongPress
+
+## Print da tela
 ![Screenshot](./assets/screenshot.png)
 
 ## Passo a passo para testar este códico
