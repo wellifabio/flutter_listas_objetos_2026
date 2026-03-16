@@ -1,6 +1,5 @@
 # Lista de Pacientes
 Exemplo de aplicativo em flutter com listas, e objetos
-- Navigator.push()
 - ListView
 - Marcar itens na lista
 - Gestos
