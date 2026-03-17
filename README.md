@@ -2,6 +2,7 @@
 Exemplo de aplicativo em flutter com listas e seleção de objetos
 - ListView
 - Marcar itens na lista
+- Imagens / avatar
 - Evento onLongPress
 
 ## Print da tela
